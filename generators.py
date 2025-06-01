@@ -1,21 +1,19 @@
 from collections.abc import Generator
 
-#1ra implementación de alg. 
-
 
 def genCongruencial(seed: int, a: int, c: int, mod: int) -> Generator[int, None, None]:
     while True:
         seed = (a * seed + c) % mod
-        yield seed
-
+        yield seed / mod
 
 def XorShift(seed: int) -> Generator[int, None, None]:
     while True:
         seed ^= (seed << 13)
         seed ^= (seed >> 17)
         seed ^= (seed << 5)
-        yield seed & 0xFFFFFFFF
         seed = seed & 0xFFFFFFFF
+        yield seed  / 2**32 
+        
 
 
 def initState(seed: int, n: int, w: int, f:int) -> list[int]:
@@ -60,10 +58,10 @@ def Mersenne(seed: int) -> Generator[int, None, None]:
         y ^= (y >> l)
 
         index += 1
-        yield y & FULL_MASK
+        yield y  / 2**w 
 
 
-if __name__ == "__main__":
+"""if __name__ == "__main__":
     generador = genCongruencial(1, 16807, 0, 2**31 - 1)
     for _ in range(10):
         print(next(generador))
@@ -74,4 +72,4 @@ if __name__ == "__main__":
 
     generador_mersenne = Mersenne(1)
     for _ in range(10):
-        print(next(generador_mersenne))
+        print(next(generador_mersenne))"""
