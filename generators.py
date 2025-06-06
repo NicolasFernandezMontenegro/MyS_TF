@@ -60,8 +60,7 @@ def Mersenne(seed: int) -> Generator[int, None, None]:
         index += 1
         yield y  / 2**w 
 
-
-"""if __name__ == "__main__":
+if __name__ == "__main__":
     generador = genCongruencial(1, 16807, 0, 2**31 - 1)
     for _ in range(10):
         print(next(generador))
@@ -72,4 +71,4 @@ def Mersenne(seed: int) -> Generator[int, None, None]:
 
     generador_mersenne = Mersenne(1)
     for _ in range(10):
-        print(next(generador_mersenne))"""
+        print(next(generador_mersenne))

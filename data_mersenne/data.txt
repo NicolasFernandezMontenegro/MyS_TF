@@ -1,0 +1,5 @@
+1) Porcentaje del tiempo con el servidor ocupado:
+    0.7479856448853199
+
+2) Tiempo promedio del cliente en el sistema:
+    1.429222882211221 n = 4000
