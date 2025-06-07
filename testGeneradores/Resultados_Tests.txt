@@ -1,0 +1,713 @@
+Resultados del test Chi-cuadrado para uniformidad:
+
+Test con 10000 muestras:
+
+Tomando 60 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 58.6400, p-value = 0.4887
+XorShift: stat = 74.7680, p-value = 0.0808
+Mersenne: stat = 51.6560, p-value = 0.7403
+
+Tomando 100 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 112.2800, p-value = 0.1707
+XorShift: stat = 130.5600, p-value = 0.0184
+Mersenne: stat = 91.5600, p-value = 0.6897
+
+Tomando 150 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 178.2200, p-value = 0.0514
+XorShift: stat = 181.0700, p-value = 0.0378
+Mersenne: stat = 162.8900, p-value = 0.2063
+
+Tomando 200 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 229.0400, p-value = 0.0709
+XorShift: stat = 218.3600, p-value = 0.1651
+Mersenne: stat = 219.8800, p-value = 0.1480
+
+Tomando 250 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 261.8000, p-value = 0.2763
+XorShift: stat = 269.8000, p-value = 0.1744
+Mersenne: stat = 271.5000, p-value = 0.1565
+
+Tomando 300 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 312.9800, p-value = 0.2775
+XorShift: stat = 325.8800, p-value = 0.1368
+Mersenne: stat = 308.9600, p-value = 0.3336
+
+Test con 20000 muestras:
+
+Tomando 60 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 68.2300, p-value = 0.1922
+XorShift: stat = 89.3920, p-value = 0.0065
+Mersenne: stat = 66.7240, p-value = 0.2287
+
+Tomando 100 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 107.0700, p-value = 0.2724
+XorShift: stat = 141.0700, p-value = 0.0035
+Mersenne: stat = 108.9200, p-value = 0.2328
+
+Tomando 150 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 149.5300, p-value = 0.4724
+XorShift: stat = 177.1150, p-value = 0.0577
+Mersenne: stat = 165.1750, p-value = 0.1727
+
+Tomando 200 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 208.3400, p-value = 0.3105
+XorShift: stat = 229.2200, p-value = 0.0698
+Mersenne: stat = 234.1400, p-value = 0.0445
+
+Tomando 250 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 240.5000, p-value = 0.6388
+XorShift: stat = 264.9250, p-value = 0.2331
+Mersenne: stat = 247.6500, p-value = 0.5123
+
+Tomando 300 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 305.2300, p-value = 0.3896
+XorShift: stat = 337.5100, p-value = 0.0619
+Mersenne: stat = 284.0800, p-value = 0.7235
+
+Test con 30000 muestras:
+
+Tomando 60 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 78.8200, p-value = 0.0434
+XorShift: stat = 78.2560, p-value = 0.0475
+Mersenne: stat = 59.2560, p-value = 0.4662
+
+Tomando 100 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 106.1267, p-value = 0.2939
+XorShift: stat = 122.4600, p-value = 0.0551
+Mersenne: stat = 101.9867, p-value = 0.3984
+
+Tomando 150 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 167.1000, p-value = 0.1475
+XorShift: stat = 161.1500, p-value = 0.2346
+Mersenne: stat = 148.8300, p-value = 0.4885
+
+Tomando 200 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 206.6000, p-value = 0.3411
+XorShift: stat = 201.3467, p-value = 0.4402
+Mersenne: stat = 221.1733, p-value = 0.1344
+
+Tomando 250 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 265.7833, p-value = 0.2220
+XorShift: stat = 232.7000, p-value = 0.7633
+Mersenne: stat = 227.8333, p-value = 0.8281
+
+Tomando 300 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 341.0600, p-value = 0.0472
+XorShift: stat = 311.5200, p-value = 0.2973
+Mersenne: stat = 272.6200, p-value = 0.8610
+
+Test con 40000 muestras:
+
+Tomando 60 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 63.9350, p-value = 0.3074
+XorShift: stat = 67.9520, p-value = 0.1987
+Mersenne: stat = 56.5310, p-value = 0.5671
+
+Tomando 100 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 110.0750, p-value = 0.2100
+XorShift: stat = 108.7150, p-value = 0.2370
+Mersenne: stat = 91.9200, p-value = 0.6801
+
+Tomando 150 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 165.6725, p-value = 0.1660
+XorShift: stat = 139.7900, p-value = 0.6936
+Mersenne: stat = 144.2150, p-value = 0.5954
+
+Tomando 200 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 203.8300, p-value = 0.3922
+XorShift: stat = 184.4900, p-value = 0.7618
+Mersenne: stat = 206.7100, p-value = 0.3391
+
+Tomando 250 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 276.7625, p-value = 0.1093
+XorShift: stat = 214.2875, p-value = 0.9456
+Mersenne: stat = 213.0375, p-value = 0.9522
+
+Tomando 300 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 317.4500, p-value = 0.2217
+XorShift: stat = 273.0950, p-value = 0.8564
+Mersenne: stat = 261.6200, p-value = 0.9418
+
+Test con 50000 muestras:
+
+Tomando 60 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 56.1832, p-value = 0.5800
+XorShift: stat = 64.7224, p-value = 0.2838
+Mersenne: stat = 51.8392, p-value = 0.7343
+
+Tomando 100 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 94.8000, p-value = 0.6007
+XorShift: stat = 105.6360, p-value = 0.3055
+Mersenne: stat = 86.8320, p-value = 0.8037
+
+Tomando 150 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 147.4060, p-value = 0.5215
+XorShift: stat = 146.4760, p-value = 0.5431
+Mersenne: stat = 146.4520, p-value = 0.5437
+
+Tomando 200 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 183.2720, p-value = 0.7813
+XorShift: stat = 180.0080, p-value = 0.8290
+Mersenne: stat = 205.0640, p-value = 0.3691
+
+Tomando 250 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 251.2100, p-value = 0.4488
+XorShift: stat = 217.1700, p-value = 0.9281
+Mersenne: stat = 227.1200, p-value = 0.8366
+
+Tomando 300 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 301.7680, p-value = 0.4443
+XorShift: stat = 275.0680, p-value = 0.8361
+Mersenne: stat = 270.4720, p-value = 0.8807
+
+Test con 60000 muestras:
+
+Tomando 60 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 59.7800, p-value = 0.4472
+XorShift: stat = 60.5940, p-value = 0.4181
+Mersenne: stat = 60.9440, p-value = 0.4058
+
+Tomando 100 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 98.4833, p-value = 0.4958
+XorShift: stat = 100.9033, p-value = 0.4279
+Mersenne: stat = 84.7133, p-value = 0.8463
+
+Tomando 150 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 143.5950, p-value = 0.6096
+XorShift: stat = 132.5250, p-value = 0.8297
+Mersenne: stat = 151.4350, p-value = 0.4290
+
+Tomando 200 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 186.8867, p-value = 0.7212
+XorShift: stat = 174.9400, p-value = 0.8896
+Mersenne: stat = 199.3867, p-value = 0.4790
+
+Tomando 250 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 256.2250, p-value = 0.3630
+XorShift: stat = 206.1250, p-value = 0.9780
+Mersenne: stat = 218.4167, p-value = 0.9194
+
+Tomando 300 bins:
+
+Chi-cuadrado (Uniformidad):
+LCG: stat = 298.8500, p-value = 0.4916
+XorShift: stat = 264.3400, p-value = 0.9263
+Mersenne: stat = 285.6600, p-value = 0.7007
+
+Promedio de p-values para cada generador en el test Chi-cuadrado:
+
+Promedio de p-value para LCG: 0.3505
+
+Promedio de p-value para XorShift: 0.4103
+
+Promedio de p-value para Mersenne: 0.5386
+
+Resultados del test de autocorrelación:
+
+Autocorrelación para 10000 muestras:
+
+Lag = 1:
+LCG: r = 0.0082, p-value = 0.4106
+
+Lag = 2:
+LCG: r = 0.0050, p-value = 0.6158
+
+Lag = 5:
+LCG: r = -0.0068, p-value = 0.4966
+
+Lag = 10:
+LCG: r = -0.0132, p-value = 0.1854
+
+Lag = 100:
+LCG: r = 0.0024, p-value = 0.8102
+
+Lag = 500:
+LCG: r = 0.0096, p-value = 0.3374
+
+Lag = 1000:
+LCG: r = 0.0019, p-value = 0.8516
+
+Lag = 1:
+XorShift: r = 0.0128, p-value = 0.2007
+
+Lag = 2:
+XorShift: r = 0.0096, p-value = 0.3363
+
+Lag = 5:
+XorShift: r = -0.0024, p-value = 0.8080
+
+Lag = 10:
+XorShift: r = -0.0216, p-value = 0.0304
+
+Lag = 100:
+XorShift: r = -0.0056, p-value = 0.5726
+
+Lag = 500:
+XorShift: r = 0.0059, p-value = 0.5530
+
+Lag = 1000:
+XorShift: r = -0.0158, p-value = 0.1151
+
+Lag = 1:
+Mersenne: r = -0.0028, p-value = 0.7829
+
+Lag = 2:
+Mersenne: r = -0.0053, p-value = 0.5985
+
+Lag = 5:
+Mersenne: r = -0.0049, p-value = 0.6216
+
+Lag = 10:
+Mersenne: r = 0.0144, p-value = 0.1488
+
+Lag = 100:
+Mersenne: r = 0.0078, p-value = 0.4384
+
+Lag = 500:
+Mersenne: r = -0.0145, p-value = 0.1471
+
+Lag = 1000:
+Mersenne: r = 0.0023, p-value = 0.8191
+
+Autocorrelación para 20000 muestras:
+
+Lag = 1:
+LCG: r = 0.0077, p-value = 0.2755
+
+Lag = 2:
+LCG: r = -0.0069, p-value = 0.3315
+
+Lag = 5:
+LCG: r = -0.0008, p-value = 0.9058
+
+Lag = 10:
+LCG: r = 0.0075, p-value = 0.2884
+
+Lag = 100:
+LCG: r = 0.0023, p-value = 0.7491
+
+Lag = 1000:
+LCG: r = -0.0023, p-value = 0.7472
+
+Lag = 2000:
+LCG: r = 0.0046, p-value = 0.5177
+
+Lag = 1:
+XorShift: r = 0.0051, p-value = 0.4713
+
+Lag = 2:
+XorShift: r = 0.0095, p-value = 0.1788
+
+Lag = 5:
+XorShift: r = 0.0028, p-value = 0.6888
+
+Lag = 10:
+XorShift: r = 0.0023, p-value = 0.7425
+
+Lag = 100:
+XorShift: r = 0.0030, p-value = 0.6691
+
+Lag = 1000:
+XorShift: r = -0.0041, p-value = 0.5623
+
+Lag = 2000:
+XorShift: r = -0.0063, p-value = 0.3760
+
+Lag = 1:
+Mersenne: r = -0.0098, p-value = 0.1641
+
+Lag = 2:
+Mersenne: r = 0.0090, p-value = 0.2039
+
+Lag = 5:
+Mersenne: r = 0.0134, p-value = 0.0579
+
+Lag = 10:
+Mersenne: r = -0.0066, p-value = 0.3530
+
+Lag = 100:
+Mersenne: r = 0.0058, p-value = 0.4136
+
+Lag = 1000:
+Mersenne: r = 0.0066, p-value = 0.3523
+
+Lag = 2000:
+Mersenne: r = 0.0071, p-value = 0.3147
+
+Autocorrelación para 30000 muestras:
+
+Lag = 1:
+LCG: r = 0.0057, p-value = 0.3256
+
+Lag = 2:
+LCG: r = -0.0010, p-value = 0.8644
+
+Lag = 5:
+LCG: r = -0.0006, p-value = 0.9172
+
+Lag = 10:
+LCG: r = 0.0027, p-value = 0.6402
+
+Lag = 100:
+LCG: r = -0.0021, p-value = 0.7141
+
+Lag = 1500:
+LCG: r = -0.0042, p-value = 0.4641
+
+Lag = 3000:
+LCG: r = 0.0041, p-value = 0.4804
+
+Lag = 1:
+XorShift: r = -0.0020, p-value = 0.7234
+
+Lag = 2:
+XorShift: r = 0.0007, p-value = 0.9074
+
+Lag = 5:
+XorShift: r = 0.0073, p-value = 0.2030
+
+Lag = 10:
+XorShift: r = 0.0088, p-value = 0.1273
+
+Lag = 100:
+XorShift: r = -0.0037, p-value = 0.5170
+
+Lag = 1500:
+XorShift: r = 0.0088, p-value = 0.1271
+
+Lag = 3000:
+XorShift: r = 0.0014, p-value = 0.8038
+
+Lag = 1:
+Mersenne: r = -0.0086, p-value = 0.1382
+
+Lag = 2:
+Mersenne: r = 0.0010, p-value = 0.8664
+
+Lag = 5:
+Mersenne: r = 0.0053, p-value = 0.3613
+
+Lag = 10:
+Mersenne: r = -0.0024, p-value = 0.6766
+
+Lag = 100:
+Mersenne: r = -0.0010, p-value = 0.8642
+
+Lag = 1500:
+Mersenne: r = -0.0086, p-value = 0.1370
+
+Lag = 3000:
+Mersenne: r = -0.0032, p-value = 0.5840
+
+Autocorrelación para 40000 muestras:
+
+Lag = 1:
+LCG: r = 0.0026, p-value = 0.5972
+
+Lag = 2:
+LCG: r = -0.0012, p-value = 0.8155
+
+Lag = 5:
+LCG: r = -0.0014, p-value = 0.7728
+
+Lag = 10:
+LCG: r = -0.0001, p-value = 0.9849
+
+Lag = 100:
+LCG: r = -0.0040, p-value = 0.4264
+
+Lag = 2000:
+LCG: r = -0.0094, p-value = 0.0588
+
+Lag = 4000:
+LCG: r = -0.0079, p-value = 0.1135
+
+Lag = 1:
+XorShift: r = -0.0038, p-value = 0.4487
+
+Lag = 2:
+XorShift: r = -0.0001, p-value = 0.9854
+
+Lag = 5:
+XorShift: r = 0.0054, p-value = 0.2760
+
+Lag = 10:
+XorShift: r = 0.0039, p-value = 0.4315
+
+Lag = 100:
+XorShift: r = -0.0076, p-value = 0.1285
+
+Lag = 2000:
+XorShift: r = -0.0049, p-value = 0.3262
+
+Lag = 4000:
+XorShift: r = 0.0004, p-value = 0.9363
+
+Lag = 1:
+Mersenne: r = -0.0072, p-value = 0.1509
+
+Lag = 2:
+Mersenne: r = 0.0000, p-value = 0.9925
+
+Lag = 5:
+Mersenne: r = 0.0028, p-value = 0.5803
+
+Lag = 10:
+Mersenne: r = -0.0017, p-value = 0.7393
+
+Lag = 100:
+Mersenne: r = -0.0034, p-value = 0.5009
+
+Lag = 2000:
+Mersenne: r = -0.0009, p-value = 0.8601
+
+Lag = 4000:
+Mersenne: r = 0.0038, p-value = 0.4475
+
+Autocorrelación para 50000 muestras:
+
+Lag = 1:
+LCG: r = 0.0037, p-value = 0.4082
+
+Lag = 2:
+LCG: r = -0.0003, p-value = 0.9401
+
+Lag = 5:
+LCG: r = 0.0047, p-value = 0.2968
+
+Lag = 10:
+LCG: r = -0.0000, p-value = 0.9996
+
+Lag = 100:
+LCG: r = 0.0061, p-value = 0.1719
+
+Lag = 2500:
+LCG: r = 0.0012, p-value = 0.7859
+
+Lag = 5000:
+LCG: r = -0.0003, p-value = 0.9505
+
+Lag = 1:
+XorShift: r = -0.0023, p-value = 0.6135
+
+Lag = 2:
+XorShift: r = -0.0024, p-value = 0.5955
+
+Lag = 5:
+XorShift: r = -0.0018, p-value = 0.6866
+
+Lag = 10:
+XorShift: r = 0.0061, p-value = 0.1756
+
+Lag = 100:
+XorShift: r = 0.0029, p-value = 0.5204
+
+Lag = 2500:
+XorShift: r = -0.0029, p-value = 0.5195
+
+Lag = 5000:
+XorShift: r = -0.0042, p-value = 0.3503
+
+Lag = 1:
+Mersenne: r = -0.0062, p-value = 0.1656
+
+Lag = 2:
+Mersenne: r = -0.0047, p-value = 0.2908
+
+Lag = 5:
+Mersenne: r = 0.0058, p-value = 0.1968
+
+Lag = 10:
+Mersenne: r = -0.0018, p-value = 0.6796
+
+Lag = 100:
+Mersenne: r = 0.0064, p-value = 0.1506
+
+Lag = 2500:
+Mersenne: r = 0.0002, p-value = 0.9714
+
+Lag = 5000:
+Mersenne: r = 0.0054, p-value = 0.2260
+
+Autocorrelación para 60000 muestras:
+
+Lag = 1:
+LCG: r = 0.0009, p-value = 0.8203
+
+Lag = 2:
+LCG: r = 0.0004, p-value = 0.9217
+
+Lag = 5:
+LCG: r = 0.0026, p-value = 0.5308
+
+Lag = 10:
+LCG: r = -0.0019, p-value = 0.6416
+
+Lag = 100:
+LCG: r = 0.0040, p-value = 0.3258
+
+Lag = 3000:
+LCG: r = -0.0024, p-value = 0.5526
+
+Lag = 6000:
+LCG: r = -0.0021, p-value = 0.6074
+
+Lag = 1:
+XorShift: r = -0.0001, p-value = 0.9785
+
+Lag = 2:
+XorShift: r = 0.0034, p-value = 0.4059
+
+Lag = 5:
+XorShift: r = -0.0026, p-value = 0.5173
+
+Lag = 10:
+XorShift: r = -0.0065, p-value = 0.1110
+
+Lag = 100:
+XorShift: r = 0.0027, p-value = 0.5045
+
+Lag = 3000:
+XorShift: r = -0.0015, p-value = 0.7116
+
+Lag = 6000:
+XorShift: r = 0.0006, p-value = 0.8876
+
+Lag = 1:
+Mersenne: r = -0.0062, p-value = 0.1263
+
+Lag = 2:
+Mersenne: r = -0.0024, p-value = 0.5617
+
+Lag = 5:
+Mersenne: r = -0.0002, p-value = 0.9579
+
+Lag = 10:
+Mersenne: r = 0.0042, p-value = 0.3082
+
+Lag = 100:
+Mersenne: r = 0.0093, p-value = 0.0222
+
+Lag = 3000:
+Mersenne: r = -0.0058, p-value = 0.1557
+
+Lag = 6000:
+Mersenne: r = -0.0031, p-value = 0.4526
+
+Promedio de correlación para cada generador en el test de autocorrelación:
+
+Promedio de r para LCG: 0.0004
+
+Promedio de r para XorShift: 0.0000
+
+Promedio de r para Mersenne: -0.0000
+
+Resultados del test de Kolmogorov-Smirnov para uniformidad:
+
+Kolmogorov-Smirnov para 10000 muestras:
+LCG: stat = 0.0073, p-value = 0.6642
+XorShift: stat = 0.0122, p-value = 0.1008
+Mersenne: stat = 0.0077, p-value = 0.5935
+
+Kolmogorov-Smirnov para 20000 muestras:
+LCG: stat = 0.0049, p-value = 0.7294
+XorShift: stat = 0.0104, p-value = 0.0270
+Mersenne: stat = 0.0060, p-value = 0.4568
+
+Kolmogorov-Smirnov para 30000 muestras:
+LCG: stat = 0.0062, p-value = 0.2050
+XorShift: stat = 0.0057, p-value = 0.2832
+Mersenne: stat = 0.0077, p-value = 0.0584
+
+Kolmogorov-Smirnov para 40000 muestras:
+LCG: stat = 0.0049, p-value = 0.2884
+XorShift: stat = 0.0043, p-value = 0.4571
+Mersenne: stat = 0.0045, p-value = 0.3933
+
+Kolmogorov-Smirnov para 50000 muestras:
+LCG: stat = 0.0032, p-value = 0.6835
+XorShift: stat = 0.0048, p-value = 0.2078
+Mersenne: stat = 0.0046, p-value = 0.2324
+
+Kolmogorov-Smirnov para 60000 muestras:
+LCG: stat = 0.0033, p-value = 0.5247
+XorShift: stat = 0.0040, p-value = 0.2896
+Mersenne: stat = 0.0042, p-value = 0.2297
+
+Promedio de p-values para cada generador en el test de Kolmogorov-Smirnov:
+
+Promedio de p-value para LCG: 0.5159
+
+Promedio de p-value para XorShift: 0.2276
+
+Promedio de p-value para Mersenne: 0.3274
